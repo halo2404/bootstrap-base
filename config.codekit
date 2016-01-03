@@ -4184,6 +4184,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/header.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4816,6 +4825,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/index1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -4857,22 +4875,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/styles\/_variables_b4.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/styles\/_variables_b4.scss",
-		"outputAbbreviatedPath": "\/css\/_variables_b4.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/styles\/fhkarate.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -4884,22 +4886,6 @@
 		"outputAbbreviatedPath": "\/css\/fhkarate.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/styles\/fhkarate_b4.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/styles\/fhkarate_b4.scss",
-		"outputAbbreviatedPath": "\/css\/fhkarate_b4.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,

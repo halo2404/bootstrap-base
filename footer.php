@@ -10,7 +10,7 @@
     </div>
     <hr>
     <div class="row">
-        <div class="col-sm-12">Hochschulsport &middot; Abt. Karate
+        <div class="col-sm-12 text-center">Hochschulsport &middot; Abt. Karate
             <br>Copyright &copy; 2015 &middot; All Rights Reserved &middot; fh-karate.de</div>
     </div>
 </div>
